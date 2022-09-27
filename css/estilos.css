@@ -19,15 +19,15 @@
 }
 table {
     clear:both; 
-    background-color: rgb(213,97,100);
+    background-color: rgb(207, 228, 19);
     border-radius: 10px; 
-    color:white;
+    color:gray;
     padding:10px;
     width:400px;
     margin:auto;
 }
 caption {
-    color:rgb(213,97,100); 
+    color:rgb(236, 156, 9); 
     font-weight: bold; 
     font-size: 25px;
 }
